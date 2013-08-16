@@ -1,0 +1,9 @@
+[submodule "snabbswitch"]
+	path = snabbswitch
+	url = git@github.com:justincormack/snabbswitch.git
+[submodule "buildrump.sh"]
+	path = buildrump.sh
+	url = https://github.com/anttikantee/buildrump.sh.git
+[submodule "ljsyscall"]
+	path = ljsyscall
+	url = https://github.com/justincormack/ljsyscall.git
